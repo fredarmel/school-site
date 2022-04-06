@@ -1,1 +1,4 @@
-# school-site
+# maven-project
+
+Simple Maven Project conflict
+
